@@ -1,10 +1,9 @@
 * clunit2
 
+Unit Testing Framework, fork of clunit.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://notabug.org/cage/clunit2.git   |
-| commit  |   |
-| systems | clunit2 |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:https://notabug.org/cage/clunit2.git |
+| commit  | 200839e8e4                               |
+| systems | clunit2                                  |
+|---------+------------------------------------------|
